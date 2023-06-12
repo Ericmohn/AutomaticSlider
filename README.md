@@ -1,4 +1,4 @@
-Automatic Slider Made With React.
+## Automatic Slider Made With React.
 ![image](https://github.com/Ericmohn/SinglePageTabs/assets/68788167/ce4a609f-075e-407e-a6cb-31f63c7cc584)
 
 ## How to install
